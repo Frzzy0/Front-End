@@ -1,0 +1,57 @@
+body {
+background-color: rgb(255, 248, 236);
+font-family: Arial, sans-serif ;
+}
+
+header {
+background-color: rgb(255, 204, 188);
+padding: 10px ;
+margin-top: 25px;
+margin-left: -25px;
+margin-right: -25px;
+}
+
+h1 {
+font-size: 65px;
+color: rgb(242, 92, 58);
+text-align: center ;
+}
+
+button {
+background-color: rgb(0, 150, 136);
+border: none ;
+}
+
+link {
+color: rgb(102, 102, 102);
+}
+
+ul {
+list-style-type: none ;
+padding: 0 ;
+margin-bottom: 30px;
+text-align: center;
+}
+
+li {
+    margin: 0 50px;
+    display: inline-block;
+    background-color: #78beec; 
+    padding: 10px 20px;
+    border-radius: 5px; 
+    transition: background-color 0.3s ease; 
+}
+
+li:hover {
+    background-color: #269ceb; 
+    cursor: pointer;
+}
+
+.Title {
+font-size: 40px;
+}
+
+body {
+margin: 20px ;
+text-align: center;
+}
