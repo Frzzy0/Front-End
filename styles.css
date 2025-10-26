@@ -1,3 +1,6 @@
+html {
+scroll-behavior: smooth ;
+}
 body {
 background-color: rgb(255, 248, 236);
 font-family: Arial, sans-serif ;
@@ -48,7 +51,17 @@ li:hover {
 }
 
 .Title {
-font-size: 40px;
+font-size: 60px;
+}
+
+.Welcome {
+font-size: 60px;
+margin-bottom: 20px;
+}
+
+.p1 {
+font-size: 35px;
+margin-bottom: 75px;
 }
 
 body {
